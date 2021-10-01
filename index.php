@@ -15,3 +15,5 @@ Router::make()
         Request::uri(),
         Request::method()
     );
+
+echo "hi";
